@@ -1,1 +1,0 @@
-# quinta_do_ypua_backend
